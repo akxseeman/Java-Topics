@@ -34,6 +34,6 @@ public class Encapsulation {
         } else {
             System.out.println("Invalid password");
         }
-
+        System.out.println("avoid ");
     }
 }
